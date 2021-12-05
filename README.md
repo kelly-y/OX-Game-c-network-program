@@ -23,7 +23,7 @@ After log in to server, the following instructions can be enter：<br>
 `List`：List online players who are not in games. <br>
 `Invite [xxx]`：Invite a player to become game opponent. <br>
 `Accept [xxx]`：Accept a invetation from other players. <br>
-`Go [0-8]：Place at specify lattice.
+`Go [0-8]`：Place at specify lattice.
 
 ### Directions
 First **enter account and password** to log in. <br>
